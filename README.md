@@ -9,7 +9,7 @@ I am a Computer Engineering student focused on understanding technology from its
 - 🎓 Currently studying **Computer Engineering**.
 - 📚 Currently deepening my knowledge and best practices in **JavaScript** and **Python**.
 - 💻 Academic and hands-on experience working with Object-Oriented Programming (OOP), low-level languages, and microcontrollers (STM).
-- 📫 How to reach me: [Your Email] | [Your LinkedIn Profile]
+- 📫 How to reach me: naim30va444@gmail.com 
 
 ### 🛠️ Technologies & Tools
 
